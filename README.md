@@ -1,6 +1,6 @@
 - 👨🏽‍💻  I’m @leocodeio
 - 🌱 I’m currently developing Full-stack and Data Science projects
-- 🌐 You can see my personal website and deployed projects through [here](https://hatakexleo.github.io/portfolio/)
+- 🌐 You can see my personal website and deployed projects through [here](https://portfolio-leocodeios-projects.vercel.app/)
 - catalyst deployed[here](https://catalyst-com.vercel.app/)
 - domain in domain deployed[here](https://keerthana-essk.github.io/dod-frontend/)
 <!---
