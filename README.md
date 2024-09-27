@@ -18,6 +18,8 @@ don't forget to leave a ⭐ if you like them!!!</h3></div>
 
 <br>
 
+<a href="https://www.buymeacoffee.com/leocodeio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <!---
 leocodeio/leocodeio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
