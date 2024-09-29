@@ -17,6 +17,28 @@
 - catalyst deployed[here](https://catalyst-com.vercel.app/)
 - domain in domain deployed[here](https://catalyst-domain-in-domain.vercel.app/)
 
+<!--
+```text
+🌞 Morning    315 commits    ██████████████████████░░░   94.65% 
+🌆 Daytime    540 commits    ██████████████░░░░░░░░░░░   59.41% 
+🌃 Evening    54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+-->
+
+<!-- other mentions -->
+## ⚡ Other mentions
+
+<details>
+    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+<!-- BLOG-POST-LIST:START -->
+- [random](https://www.linkedin.com/in/sai-harsha-vardhan-pittada-8a9a74252/)
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
+
 <!-- teach stacks -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies I've been learning and using so far....***
 <div>
