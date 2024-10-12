@@ -57,7 +57,7 @@
     <td align="left">
         <h5>
          &nbsp;
-            <a href="https://anime-spam-ytp1.vercel.app/" target="blank">
+            <a href="https://anime-spam.vercel.app/" target="blank">
               <img align="center" src="https://i.pinimg.com/236x/b1/78/e8/b178e87dd4ac18d778028a057f7c5714.jpg" alt="animespam" height="30" width="30"/>&nbsp; AnimeSpam
             </a>
         </h5>
