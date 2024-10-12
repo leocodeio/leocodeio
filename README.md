@@ -75,6 +75,26 @@
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img  alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="Remix" src="https://img.shields.io/badge/Remix-FF4C4C?style=for-the-badge&logo=remix&logoColor=white"/>  
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-F24E1E?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img alt="Hopscotch" src="https://img.shields.io/badge/Hopscotch-00BEB7?style=for-the-badge&logo=hopscotch&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="MongoDB Compass" src="https://img.shields.io/badge/MongoDB%20Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="pgAdmin" src="https://img.shields.io/badge/pgAdmin-2F3E52?style=for-the-badge&logo=pgadmin&logoColor=white"/>
+  <img alt="Flowbite" src="https://img.shields.io/badge/Flowbite-0E3C4E?style=for-the-badge&logo=flowbite&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-00A3E0?style=for-the-badge&logo=google&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+
 </div>
 
 
