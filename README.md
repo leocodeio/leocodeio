@@ -54,7 +54,7 @@
     </td>
   </tr>
     <tr>
-    <td align="center">
+    <td align="left">
         <h5>
          &nbsp;
             <a href="https://anime-spam-ytp1.vercel.app/" target="blank">
