@@ -1,40 +1,43 @@
 <!-- Intro part -->
-<!--     </a>
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center;">
-    <a href="https://git.io/typing-svg">
-    <img width="100px" height="100px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey+there+,+Harsha+Here!!!;Know+more+about+me+below!!!" alt="Typing SVG"/>
-</div> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+there!+It's+Harsha!;I'm+a+Full+Stack+Developer...;)](https://git.io/typing-svg)
 <!-- About me -->
-  <!--<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me -->
  <h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm 
     <a href="https://portfolio-leocodeios-projects.vercel.app/" target="blank">
-<!--       <img align="center" src="https://portfolio-leocodeios-projects.vercel.app/trail7.png" alt="prof" height="45" width="35"  />  -->
         Leo
     </a>
  </h3>
  
  <div>
      <img alt="Full-Stack Developer" src="https://img.shields.io/badge/Full--Stack%20Developer-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-     <img alt="ML Engineer" src="https://img.shields.io/badge/ML%20Engineer-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
+     <img alt="ML Engineer" src="https://img.shields.io/badge/AI&ML%20Engineer-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<!-- <h5> - 🌐 You can see my personal <a href="https://portfolio-leocodeios-projects.vercel.app/">website</a> and deployed projects</h5> -->
-
 <!-- About the Project -->
-## :star2: Projects
- <h5>
-    <a href="https://catalyst-domain-in-domain.vercel.app/" target="blank">
-      <img align="center" src="https://i.pinimg.com/originals/49/f6/b3/49f6b314d7873260af254d54ff96af64.png" alt="dod" height="30" width="30"  /> Domain In Domain
-    </a>
- </h5>
-  <h5>
-    <a href="https://catalyst-com.app/" target="blank">
-      <img align="center" src="https://i.pinimg.com/736x/3f/58/20/3f582064e15e2f13546b0603cef5b968.jpg" alt="dod" height="30" width="30"  /> Catalyst Community Website
-    </a>
- </h5>
+<h3>:star2: Projects</h3>
+
+<table border="0">
+  <tr>
+    <td align="center">
+        <h5>
+            <a href="https://catalyst-domain-in-domain.vercel.app/" target="blank">
+              <img align="center" src="https://i.pinimg.com/originals/49/f6/b3/49f6b314d7873260af254d54ff96af64.png" alt="dod" height="30" width="30"/> Domain In Domain
+            </a>
+        </h5>
+    </td>
+    <td align="center">
+        <h5>
+            <a href="https://catalyst-com.app/" target="blank">
+              <img align="center" src="https://i.pinimg.com/736x/3f/58/20/3f582064e15e2f13546b0603cef5b968.jpg" alt="dod" height="30" width="30"  /> Catalyst Community Website
+            </a>
+        </h5>
+    </td>
+  </tr>
+</table>
+
+<!-- </details>  -->
+
+
+
 <!--
 ```text
 🌞 Morning    315 commits    ██████████████████████░░░   94.65% 
@@ -54,7 +57,7 @@
 -->
 
 <!-- teach stacks -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies I've been learning and using so far....***
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Technologies I've been using...
 <div>
   <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
