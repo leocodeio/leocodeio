@@ -39,7 +39,7 @@
     <td align="center">
         <h5>
          &nbsp;
-            <a href="https://catalyst-com.app/" target="blank">
+            <a href="https://catalyst-com.vercel.app/" target="blank">
               <img align="center" src="https://i.pinimg.com/736x/3f/58/20/3f582064e15e2f13546b0603cef5b968.jpg" alt="dod" height="30" width="30"  />&nbsp; Catalyst Community Website
             </a>
         </h5>
